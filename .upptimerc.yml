@@ -5,7 +5,7 @@ sites:
   - name: Go-Agent
     url: $GO_AGENT
   - name: Go-Agent API
-    url: $GO_AGENT_API
+    url: $API_GO_AGENT
   - name: PayQ Client
     url: $PAYQ_CLIENT
   - name: PayQ Admin
