@@ -24,7 +24,7 @@ status-website:
   name: ParamQ status
   introTitle: " "
   introMessage: " "
-  theme: dark
+  theme: night
   navbar:
     - title: Status
       href: /
