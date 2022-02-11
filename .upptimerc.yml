@@ -12,6 +12,8 @@ sites:
     url: $PAYQ_ADMIN
   - name: PayQ API
     url: $PAYQ_API
+  - name: test-email
+    url: $MONITORING
     
 assigness:
   - paulspartan14
