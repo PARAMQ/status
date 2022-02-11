@@ -94,19 +94,19 @@
     "url": "$MONITORING",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "test-email",
-    "status": "down",
-    "uptime": "97.24%",
-    "uptimeDay": "97.24%",
-    "uptimeWeek": "97.24%",
-    "uptimeMonth": "97.24%",
-    "uptimeYear": "97.24%",
-    "time": 214,
-    "timeDay": 214,
-    "timeWeek": 214,
-    "timeMonth": 214,
-    "timeYear": 214,
+    "status": "up",
+    "uptime": "17.19%",
+    "uptimeDay": "17.19%",
+    "uptimeWeek": "17.19%",
+    "uptimeMonth": "17.19%",
+    "uptimeYear": "17.19%",
+    "time": 287,
+    "timeDay": 287,
+    "timeWeek": 287,
+    "timeMonth": 287,
+    "timeYear": 287,
     "dailyMinutesDown": {
-      "2022-02-11": 0
+      "2022-02-11": 17
     }
   }
 ]
