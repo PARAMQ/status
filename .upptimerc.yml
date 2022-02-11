@@ -28,3 +28,6 @@ status-website:
   navbar:
     - title: Status
       href: /
+
+i18n:
+  footer: This page is powered by [ParamQ](https://paramq.com)
