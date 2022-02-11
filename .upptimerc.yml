@@ -12,10 +12,6 @@ sites:
     url: $PAYQ_ADMIN
   - name: PayQ API
     url: $PAYQ_API
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: Test Broken Site 2
-    url: https://thissitedoesnotexist.koj.co
     
 assigness:
   - paulspartan14
