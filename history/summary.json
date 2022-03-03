@@ -4,10 +4,10 @@
     "url": "$GO_AGENT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "go-agent",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "98.66%",
-    "uptimeWeek": "99.81%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "99.80%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
     "time": 349,
@@ -16,6 +16,7 @@
     "timeMonth": 349,
     "timeYear": 349,
     "dailyMinutesDown": {
+      "2022-03-03": 1,
       "2022-03-02": 19
     }
   },
@@ -42,10 +43,10 @@
     "url": "$PAYQ_CLIENT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pay-q-client",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 839,
@@ -53,16 +54,18 @@
     "timeWeek": 972,
     "timeMonth": 839,
     "timeYear": 839,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-03": 1
+    }
   },
   {
     "name": "PayQ Admin",
     "url": "$PAYQ_ADMIN",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pay-q-admin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +74,9 @@
     "timeWeek": 235,
     "timeMonth": 239,
     "timeYear": 239,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-03": 0
+    }
   },
   {
     "name": "PayQ API",
