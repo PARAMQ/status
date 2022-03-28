@@ -26,19 +26,19 @@
     "url": "$API_GO_AGENT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "go-agent-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 259,
-    "timeDay": 273,
-    "timeWeek": 271,
-    "timeMonth": 277,
-    "timeYear": 259,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 261,
+    "timeDay": 305,
+    "timeWeek": 282,
+    "timeMonth": 280,
+    "timeYear": 261,
     "dailyMinutesDown": {
-      "2022-03-28": 0
+      "2022-03-28": 18
     }
   },
   {
