@@ -26,18 +26,20 @@
     "url": "$API_GO_AGENT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "go-agent-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 260,
-    "timeDay": 336,
-    "timeWeek": 279,
-    "timeMonth": 279,
-    "timeYear": 260,
-    "dailyMinutesDown": {}
+    "time": 259,
+    "timeDay": 273,
+    "timeWeek": 271,
+    "timeMonth": 277,
+    "timeYear": 259,
+    "dailyMinutesDown": {
+      "2022-03-28": 0
+    }
   },
   {
     "name": "PayQ Client",
