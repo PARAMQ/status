@@ -52,9 +52,9 @@
     "url": "$PAYQ_CLIENT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pay-q-client",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "97.27%",
+    "uptimeDay": "97.26%",
     "uptimeWeek": "99.39%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.83%",
@@ -102,18 +102,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pay-q-api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 267,
     "timeDay": 279,
     "timeWeek": 253,
     "timeMonth": 250,
     "timeYear": 267,
     "dailyMinutesDown": {
-      "2022-05-05": 0
+      "2022-05-05": 8
     }
   }
 ]
