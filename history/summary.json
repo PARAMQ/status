@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "go-agent",
     "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "96.67%",
-    "uptimeWeek": "98.79%",
-    "uptimeMonth": "99.51%",
-    "uptimeYear": "99.77%",
+    "uptime": "99.78%",
+    "uptimeDay": "97.25%",
+    "uptimeWeek": "98.87%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.78%",
     "time": 592,
     "timeDay": 231,
     "timeWeek": 480,
     "timeMonth": 399,
     "timeYear": 592,
     "dailyMinutesDown": {
-      "2022-05-05": 48,
+      "2022-05-05": 40,
       "2022-05-04": 52,
       "2022-05-02": 23,
       "2022-04-19": 16,
@@ -101,9 +101,9 @@
     "url": "$PAYQ_API",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pay-q-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -112,6 +112,8 @@
     "timeWeek": 253,
     "timeMonth": 250,
     "timeYear": 267,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-05": 0
+    }
   }
 ]
