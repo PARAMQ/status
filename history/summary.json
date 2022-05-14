@@ -4,9 +4,9 @@
     "url": "$GO_AGENT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "go-agent",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.80%",
@@ -16,6 +16,7 @@
     "timeMonth": 380,
     "timeYear": 571,
     "dailyMinutesDown": {
+      "2022-05-14": 0,
       "2022-05-05": 40,
       "2022-05-04": 52,
       "2022-05-02": 23,
@@ -32,9 +33,9 @@
     "url": "$API_GO_AGENT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "go-agent-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -44,6 +45,7 @@
     "timeMonth": 249,
     "timeYear": 257,
     "dailyMinutesDown": {
+      "2022-05-14": 0,
       "2022-03-28": 18
     }
   },
@@ -52,9 +54,9 @@
     "url": "$PAYQ_CLIENT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pay-q-client",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.83%",
@@ -64,6 +66,7 @@
     "timeMonth": 281,
     "timeYear": 692,
     "dailyMinutesDown": {
+      "2022-05-14": 0,
       "2022-05-05": 62,
       "2022-05-02": 22,
       "2022-04-19": 15,
@@ -101,9 +104,9 @@
     "url": "$PAYQ_API",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pay-q-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
@@ -113,6 +116,7 @@
     "timeMonth": 255,
     "timeYear": 265,
     "dailyMinutesDown": {
+      "2022-05-14": 0,
       "2022-05-05": 31
     }
   }
