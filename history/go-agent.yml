@@ -1,7 +1,7 @@
 url: $GO_AGENT
-status: down
-code: 500
-responseTime: 3096
-lastUpdated: 2022-06-02T05:58:01.685Z
+status: up
+code: 200
+responseTime: 375
+lastUpdated: 2022-06-02T06:22:30.474Z
 startTime: Fri Feb 11 2022 02:01:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
