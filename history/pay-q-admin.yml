@@ -1,7 +1,7 @@
 url: $PAYQ_ADMIN
-status: down
-code: 500
-responseTime: 3060
-lastUpdated: 2022-10-19T15:43:49.512Z
+status: up
+code: 200
+responseTime: 1528
+lastUpdated: 2022-10-19T16:01:39.890Z
 startTime: Fri Feb 11 2022 02:01:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
