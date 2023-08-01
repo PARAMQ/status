@@ -14,7 +14,7 @@
     "timeDay": 268,
     "timeWeek": 1160,
     "timeMonth": 770,
-    "timeYear": 321,
+    "timeYear": 320,
     "dailyMinutesDown": {}
   },
   {
@@ -22,7 +22,7 @@
     "url": "$API_GO_AGENT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "go-agent-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 429,
     "timeDay": 246,
-    "timeWeek": 231,
+    "timeWeek": 249,
     "timeMonth": 216,
     "timeYear": 389,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 301,
     "timeDay": 540,
-    "timeWeek": 180,
+    "timeWeek": 193,
     "timeMonth": 154,
     "timeYear": 255,
     "dailyMinutesDown": {}
